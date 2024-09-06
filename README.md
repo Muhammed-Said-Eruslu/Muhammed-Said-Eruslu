@@ -1,5 +1,8 @@
 
-![C#](https://path-to-your-image/csharp-icon.png) ![C](https://path-to-your-image/c-icon.png) ![Unity](https://path-to-your-image/unity-icon.png)
+<img src="https://path-to-your-image/csharp-icon.png" alt="C#" width="50" height="50" />
+<img src="https://path-to-your-image/c-icon.png" alt="C" width="50" height="50" />
+<img src="https://path-to-your-image/unity-icon.png" alt="Unity" width="50" height="50" />
+
 <h1 align="center">Merhaba 👋, ben Muhammed Said Eruslu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-said-eruslu&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-said-eruslu" /> </p>
 
