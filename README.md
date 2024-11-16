@@ -7,6 +7,22 @@
 - C#
 - C
 - Unity
+- Js
+- Html/Css
+- Boostrap
+- LinQ
+- T-SQL
+- Ms SQL Server(Veri Tabanı Yönetimi)
+- Entity Framework
+- .Net
+- Asp.Net(MVC)
+- Oop
+- N-Tier Architecture
+- DDL (Data Definition Language)
+- DML (Data Manipulation Language)
+- ORM (Object-Relational Mapping)
+- Windows Form
+
 
 
 <h1 align="center">Hi 👋, I'm Muhammed Said Eruslu</h1>
